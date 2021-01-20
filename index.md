@@ -23,7 +23,7 @@
 ### 7、层析：<br>
 * Kirill Gadylshin, Ilya Silvestrov, Andrey Bakulin, [Inpainting of local wavefront attributes using artificial intelligence](https://library.seg.org/doi/10.1190/segam2019-3214642.1).(SEG Technical Program Expanded Abstracts 2019: 2212-2216, September, 2019) <br>
 
-### 8、解释(伍新明):<br>
+### 8、解释:<br>
 * Yazeed Alaudah, Ghassan AlRegib, [A weakly supervised approach to seismic structure labeling](https://library.seg.org/doi/10.1190/segam2017-17793533.1).(SEG Technical Program Expanded Abstracts 2017: 2060-2065, September, 2017) <br>
 
 ### 9、断层识别(分类解释)：<br>
