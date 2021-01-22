@@ -1,6 +1,23 @@
 ## 一、	勘探地球物理<br>
 ### 1、插值：<br>
 * Pierre Turquais, Endrias Asgedom, Walter Soellner,[Structured dictionary learning for interpolation of aliased seismic data](https://library.seg.org/doi/10.1190/segam2017-17670290.1). (SEG Technical Program Expanded Abstracts 2017: 4257-4261, September, 2017) <br>
+* Georgios Pilikos, A.C. Faul, Neil Philip,[Seismic compressive sensing beyond aliasing using Bayesian feature learning](https://library.seg.org/doi/10.1190/segam2017-17558742.1). (SEG Technical Program Expanded Abstracts 2017: 4328-4332, September, 2017) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
