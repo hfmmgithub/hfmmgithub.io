@@ -2,28 +2,66 @@
 ### 1、插值：<br>
 * Pierre Turquais, Endrias Asgedom, Walter Soellner,[Structured dictionary learning for interpolation of aliased seismic data](https://library.seg.org/doi/10.1190/segam2017-17670290.1). (SEG Technical Program Expanded Abstracts 2017: 4257-4261, September, 2017) <br>
 * Georgios Pilikos, A.C. Faul, Neil Philip,[Seismic compressive sensing beyond aliasing using Bayesian feature learning](https://library.seg.org/doi/10.1190/segam2017-17558742.1). (SEG Technical Program Expanded Abstracts 2017: 4328-4332, September, 2017) <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Shotaro Nakayama and Gerrit Blacquière,[Machine-learning based data recovery and its benefit to seismic acquisition: deblending, data reconstruction and low-frequency extrapolation in a simultaneous fashion](https://doi.org/10.1190/segam2020-3399306.1). (SEG LIBRARY, October, 2020) <br>
+* Sara Mandelli, Federico Borra, Vincenzo Lipari, Paolo Bestagini, Augusto Sarti, Stefano Tubaro,[Seismic data interpolation through convolutional autoencoder](https://doi.org/10.1190/segam2018-2995428.1). (SEG Technical Program Expanded Abstracts 2018: 4101-4105, October, 2018) <br>
+* Harpreet Kaur, Nam Pham, Sergey Fomel,[Seismic data interpolation using CycleGAN](https://library.seg.org/doi/10.1190/segam2019-3207424.1). (SEG Technical Program Expanded Abstracts 2019: 2202-2206, September, 2019) <br>
+* Thomas Larsen Greiner, Odd Kolbjørnsen, Jan Erik Lie, Espen Harris Nilsen, Andreas Kjelsrud Evensen, Leiv Gelius,[Cross-streamer wavefield interpolation using deep convolutional neural network](https://library.seg.org/doi/10.1190/segam2019-3214009.1). (SEG Technical Program Expanded Abstracts 2019: 2207-2211, September, 2019) <br>
+* D. K. Chang, W. Y. Yang, X. S. Yong, H. S Li,[Seismic data interpolation with conditional generative adversarial network in time and frequency domain](https://library.seg.org/doi/10.1190/segam2019-3210118.1). (SEG Technical Program Expanded Abstracts 2019: 2589-2593, September, 2019) <br>
+* Feng Wang, Shengchang Chen, Yanan Liu,[Deep learning for gravity and magnetic data interpolation](https://library.seg.org/doi/10.1190/segam2019-3216102.1). (SEG Technical Program Expanded Abstracts 2019: 2533-2537, September, 2019) <br>
+* Tomas Naprstek, Richard Smith,[Applications of machine learning to the spatial interpolation of aeromagnetic data](https://library.seg.org/doi/10.1190/segam2019-3215629.1). (SEG Technical Program Expanded Abstracts 2019: 2143-2147, September, 2019) <br>
+* Satyakee Sen, Sribharath Kainkaryam, Cen Ong, Arvind Sharma,[Interpolation of regularly sampled prestack seismic data with self-supervised learning](https://library.seg.org/doi/10.1190/segam2019-3215774.1). (SEG Technical Program Expanded Abstracts 2019: 3974-3978, September, 2019) <br>
+* Jiho Park, Daeung Yoon, Soon Jee Seol, Joongmoo Byun,[Reconstruction of seismic field data with convolutional U-Net considering the optimal training input data](https://library.seg.org/doi/10.1190/segam2019-3216017.1). (SEG Technical Program Expanded Abstracts 2019: 4650-4654, September, 2019) <br>
 
 
 
 
 ### 2、去噪(噪声衰减)：<br>
 * Christof Stork, [Removing complex land noise with modern pattern recognition using Machine Learning](https://library.seg.org/doi/10.1190/segam2017-w19-03.1).(SEG Technical Program Expanded Abstracts 2017: 6089-6093, September, 2017) <br>
+* Xin Tian, Kai Zhang, Zhenchun Li,[Seismic data denoising based on online dictionary learning algorithm](https://library.seg.org/doi/10.1190/segam2017-17722552.1). (SEG Technical Program Expanded Abstracts 2017: 5105-5109, September, 2017) <br>
+* Yuchen Jin, Xuqing Wu, Jiefu Chen, Zhu Han, and Wenyi HuSeismic,[Seismic data denoising by deep-residual networks](https://doi.org/10.1190/segam2018-2998619.1). (SEG Technical Program Expanded Abstracts 2018: 4593-4597, October, 2018) <br>
+* Haishan Li, Wuyang Yang, Xueshan Yong,[Deep learning for ground-roll noise attenuation](https://doi.org/10.1190/segam2018-2981295.1). (SEG LIBRARY, pp. 1981-1985 (5 pages), October, 2018) <br>
+* Xu Si, Yijun Yuan,[Random noise attenuation based on residual learning of deep convolutional neural network](https://doi.org/10.1190/segam2018-2985176.1). (SEG LIBRARY, pp. 1986-1990 (5 pages), October, 2018) <br>
+* Stephen Alwon,[Generative adversarial networks in seismic data processing](https://doi.org/10.1190/segam2018-2996002.1). (SEG LIBRARY, pp. 1991-1995 (5 pages), October, 2018) <br>
+* Chengbo Li, Yu Zhang, Charles C. Mosher,[An unsupervised learning method for residual seismic signal recovery](https://doi.org/10.1190/segam2018-2996280.1). (SEG LIBRARY, pp. 1996-2000 (5 pages), October, 2018) <br>
+* Benfeng Wang, Ning Zhang, Wenkai Lu,[Intelligent shot-gather reconstruction using residual learning networks](https://doi.org/10.1190/segam2018-2997541.1). (SEG LIBRARY, pp. 2001-2005 (5 pages), October, 2018) <br>
+* Janaki Vamaraju, Mrinal K. Sen,[Mean-field Boltzmann machines for high-resolution Kirchhoff migration](https://doi.org/10.1190/segam2018-2997793.1). (SEG LIBRARY, pp. 2006-2010 (5 pages), October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+* Yanhui Zhou, Wenchao Chen, Zhensheng Shi, Xiaokai Wang,[Seismic reconstruction via constrained dictionary learning](https://library.seg.org/doi/10.1190/segam2018-2996536.1). (SEG Technical Program Expanded Abstracts 2018: 4608-4612, October, 2018) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 3、初至：<br>
 * Daniele Colombo, Mohammed Al-Najjar, Ernesto Sandoval-Curiel, Riyadh Saad, [Automatic near-surface velocity and statics by surface-consistent refraction analysis: Application to a central Saudi Arabian megamerge](https://library.seg.org/doi/10.1190/segam2017-17557867.1).(SEG Technical Program Expanded Abstracts 2017: 2671-2675, September, 2017) <br>
